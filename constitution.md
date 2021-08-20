@@ -3,7 +3,7 @@
 <p align="center"><br>
 Current contact details:<br>
 executives@cissa.org.au<br><br>
-September 2018<br>
+August 2021<br>
 </p>
 
 2012/09/14 - First version
@@ -15,6 +15,8 @@ September 2018<br>
 2016/09/05 - Introduction of UX Officer individual position for general committee members. Introduction of sub-committee roles which may be appointed by executives and general committee members as needed and deemed suitable. Sub-committee members do not have to be voted in at general meetings and do not have voting rights. Introduction of compulsory constitution amendment from UMSU, clause 24, Grievance procedure.
 
 2018/09/21 - General Committee is now composed of single-member positions with specific portfolios. Updated Affirmative Action procedures to handle new single-member General Committee positions. Events Officer is now an Executive position, Diversity Officer is now a General Committee position. Introduction of the First Year Officer, and the removal of the UX Officer. Removal of the Immediate Past President. Old committee are now bound to mentor new committee and run events organised prior to the AGM.
+
+2021/08/20 - Renaming subcommittee to "team". Renaming all "Officer" roles in the previous committee structure to "Director" and all team roles to "Officer". Introduction of Products Director, which is similar to the UX Officer role from previous years but also covering Product Management oriented events. Introduction of Hackathon Director that organises hackathon(s) throughout the year. Adding the responsibility of coordinating recruitment and intra-committee culture to the role of Secretary. Moving Events Director to general committee. 
 
 ## 1 Name and Standard Regulations
 
@@ -74,27 +76,31 @@ The committee shall have the following members elected at the AGM:
 
 	4. the Treasurer, who shall be in their second or later year;
 
-	5. the Education Officer, who shall be in their second or later year;
-
-	6. the Events Officer, who shall be in their second or later year.
+	5. the Education Director, who shall be in their second or later year;
 
 2. General committee members, who shall be University of Melbourne students, consisting of:
 
-	1. the Publicity Officer;
+	1. the Industry Liaison;
 
-	2. the Industry Liaison;
+	2. the Publicity Director;
 
-	3. the IT Officer;
+	3. the Product Director;
 
-	4. the First Year Officer, who shall be a Bachelor of Science student in their first year;
+	4. the Events Director;
 
-	5. the Diversity Officer, who must be a woman or identify as non-binary.
+	5. the Hackathon Director; 
+
+	6. the IT Director;
+
+	4. the First Year Director, who shall be a Bachelor of Science student in their first year;
+
+	5. the Diversity Director, who must be a woman or identify as non-binary.
 
 ### 5.2
 Affirmative Action shall be applied for women at 25 percent, rounded up, of the elected committee.
 
 ### 5.3
-Sub-committee members may be appointed by Executives and General Committee members as needed and deemed suitable through recruitment drives normally at the beginning of each semester. Sub-committee members do not have voting rights in the committee.
+Team members may be appointed by Executives and General Committee members as needed and deemed suitable through recruitment drives normally at the beginning of each semester. Team members do not have voting rights in the committee.
 
 ### 5.4
 All committee members must agree to be bound by their duties to CISSA and participate in the organisation and execution of all CISSA-run events and initiatives including but not limited to marketing campaigns, setting up of events, speaking at events, etc., unless a reasonable notice is provided in advance.
@@ -134,7 +140,7 @@ There shall be one Annual General Meeting every calendar year, which shall be he
 ### 8.2
 At this meeting:
 
-1. Written reports shall be presented by the President and Treasurer and Education Officer and any other pertinent persons;
+1. Written reports shall be presented by the President, Treasurer, Education Director and any other pertinent persons;
 
 2. Ratification of the clubs constitution;
 
