@@ -16,7 +16,7 @@ August 2021<br>
 
 2018/09/21 - General Committee is now composed of single-member positions with specific portfolios. Updated Affirmative Action procedures to handle new single-member General Committee positions. Events Officer is now an Executive position, Diversity Officer is now a General Committee position. Introduction of the First Year Officer, and the removal of the UX Officer. Removal of the Immediate Past President. Old committee are now bound to mentor new committee and run events organised prior to the AGM.
 
-2021/08/20 - Renaming all "Officer" roles in the previous committee structure to "Director" and all team roles to "Officer". Introduction of Products Director, which is similar to the UX Officer role from previous years but also covering Product Management oriented events. Introduction of Hackathon Director that organises hackathon(s) throughout the year. Adding the responsibility of coordinating recruitment and intra-committee culture to the role of Secretary. Moving Events Director to general committee. 
+2021/08/20 - Renaming all "Officer" roles in the previous committee structure to "Director" and all subcommittee roles to "Officer". Introduction of Products Director, which is similar to the UX Officer role from previous years but also covering Product Management oriented events. Introduction of Hackathon Director that organises hackathon(s) throughout the year. Moving Events Director to general committee. 
 
 ## 1 Name and Standard Regulations
 
@@ -80,27 +80,29 @@ The committee shall have the following members elected at the AGM:
 
 2. General committee members, who shall be University of Melbourne students, consisting of:
 
-	1. the Industry Liaison;
+	1. the Publicity Director;
 
-	2. the Publicity Director;
+	2. the Industry Liaison;
 
-	3. the Product Director;
-
-	4. the Events Director;
-
-	5. the Hackathon Director; 
-
-	6. the IT Director;
+	3. the IT Director;
 
 	4. the First Year Director, who shall be a Bachelor of Science student in their first year;
 
 	5. the Diversity Director, who must be a woman or identify as non-binary.
 
+	6. the Events Director;
+
+	7. the Product Director;
+
+	8. the Hackathon Director; 
+
+	
+
 ### 5.2
 Affirmative Action shall be applied for women at 25 percent, rounded up, of the elected committee.
 
 ### 5.3
-Team officers may be appointed by Executives and General Committee members as needed and deemed suitable through recruitment drives normally at the beginning of each semester. Team members do not have voting rights in the committee.
+Team officers may be appointed by Executives and General Committee members as needed and deemed suitable through recruitment drives normally at the beginning of each semester. Team officers do not have voting rights in the committee.
 
 ### 5.4
 All committee members must agree to be bound by their duties to CISSA and participate in the organisation and execution of all CISSA-run events and initiatives including but not limited to marketing campaigns, setting up of events, speaking at events, etc., unless a reasonable notice is provided in advance.
