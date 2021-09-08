@@ -16,7 +16,7 @@ August 2021<br>
 
 2018/09/21 - General Committee is now composed of single-member positions with specific portfolios. Updated Affirmative Action procedures to handle new single-member General Committee positions. Events Officer is now an Executive position, Diversity Officer is now a General Committee position. Introduction of the First Year Officer, and the removal of the UX Officer. Removal of the Immediate Past President. Old committee are now bound to mentor new committee and run events organised prior to the AGM.
 
-2021/08/20 - Renaming all "Officer" roles in the previous committee structure to "Director" and all subcommittee roles to "Officer". Introduction of Products Director, which is similar to the UX Officer role from previous years but also covering Product Management oriented events. Introduction of Hackathon Director that organises hackathon(s) throughout the year. Moving Events Director to general committee. 
+2021/08/20 - Renaming all "Officer" roles in the previous committee structure to "Director" and all subcommittee roles to "Officer". Introduction of Product Director, which is similar to the UX Officer role from previous years but also covering Product Management oriented events. Introduction of Hackathon Director that organises hackathon(s) throughout the year. Moving Events Director to general committee. 
 
 ## 1 Name and Standard Regulations
 
