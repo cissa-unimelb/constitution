@@ -78,6 +78,8 @@ The committee shall have the following members elected at the AGM:
 
 	5. the Education Director, who shall be in their second or later year;
 
+	6. the Events Director, who shall be in their second or later year;
+
 2. General committee members, who shall be University of Melbourne students, consisting of:
 
 	1. the Publicity Director;
@@ -90,11 +92,9 @@ The committee shall have the following members elected at the AGM:
 
 	5. the Diversity Director, who must be a woman or identify as non-binary.
 
-	6. the Events Director;
+	6. the Product Director;
 
-	7. the Product Director;
-
-	8. the Hackathon Director; 
+	7. the Hackathon Director; 
 
 	
 
