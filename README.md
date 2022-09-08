@@ -3,7 +3,9 @@
 This repository holds the revisions to the [constitution](constitution.md) of
 the Computing and Information Systems Students Association (CISSA).
 
-## Versions
+## Previous Versions
+
+[September 29, 2022]()
 
 [September 21, 2018](https://github.com/cissa-unimelb/constitution/blob/3f50b7d38ac116101c632c7ce93554e538038442/constitution.md)
 
