@@ -1,6 +1,6 @@
 # CISSA Constitution
 
-This repository holds the revisions to the cuurrent [constitution](constitution.md) of
+This repository holds the revisions to the current [constitution](constitution.md) of
 the Computing and Information Systems Students Association (CISSA).
 
 ## Previous Versions
