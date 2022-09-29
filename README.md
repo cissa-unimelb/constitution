@@ -5,7 +5,7 @@ the Computing and Information Systems Students Association (CISSA).
 
 ## Previous Versions
 
-[May 9, 2022]()
+[May 9, 2022](https://github.com/cissa-unimelb/constitution/blob/df79f0f0bb5333b01f5a0c9daa83259d3f79de1f/constitution.md)
 
 [September 29, 2021](https://github.com/cissa-unimelb/constitution/blob/5bd740af3c9834b04d973387e0acc88d8b875634/constitution.md)
 
