@@ -3,7 +3,7 @@
 <p align="center"><br>
 Current contact details:<br>
 executives@cissa.org.au<br><br>
-May 2022<br>
+September 2022<br>
 </p>
 
 2012/09/14 - First version
@@ -19,6 +19,8 @@ May 2022<br>
 2021/09/29 - Renaming all "Officer" roles in the previous committee structure to "Director" and all subcommittee roles to "Officer". Introduction of Product Director, which is similar to the UX Officer role from previous years but also covering Product Management oriented events. Introduction of Hackathon Director that organises hackathon(s) throughout the year. Moving Events Director to general committee.
 
 2022/05/09 - Moved Events Director to executive committee.
+
+2022/09/15 - Updated role eligibility for Events Director and Diversity Director. First Year Director is now renamed to Student Experience Director, and the restrictions are removed. Hackathon Director is now renamed to Competitions Director. People & Culture Director is added as a new role. The club aims are updated to enumerate more disciplines at UniMelb that we represent. Adding a diversity quota for team officers (subcommittee).
 
 ## 1 Name and Standard Regulations
 
@@ -51,7 +53,7 @@ The aims of the club are:
 5. Encourage and improve the learning, teaching and research of Computing and Information Systems within the university.
 
 
-6. Represent the interests of the Computer Science, Software Engineering and Business and IT communities fairly.
+6. Represent the interests of the Computer Science, Data Science, Software Engineering, IT, Information Systems, Product, and tech communities.
 
 ## 3 Membership
 
@@ -80,7 +82,7 @@ The committee shall have the following members elected at the AGM:
 
 	5. the Education Director, who shall be in their second or later year;
 
-	6. the Events Director, who shall be in their second or later year;
+	6. the Events Director, who shall be in their second or later year, or shall have past committee or team officer experience;
 
 2. General committee members, who shall be University of Melbourne students, consisting of:
 
@@ -90,13 +92,15 @@ The committee shall have the following members elected at the AGM:
 
 	3. the IT Director;
 
-	4. the First Year Director, who shall be a Bachelor of Science student in their first year;
+	4. the Student Experience Director;
 
-	5. the Diversity Director, who must be a woman or identify as non-binary.
+	5. the Diversity Director, who must be a woman, have a minority gender identity, or be from an Indigenous background.
 
 	6. the Product Director;
 
-	7. the Hackathon Director; 
+	7. the Competitions Director;
+
+	8. the People & Culture Director;
 
 	
 
@@ -105,6 +109,11 @@ Affirmative Action shall be applied for women at 25 percent, rounded up, of the 
 
 ### 5.3
 Team officers may be appointed by Executives and General Committee members as needed and deemed suitable through recruitment drives normally at the beginning of each semester. Team officers do not have voting rights in the committee.
+
+Until gender balance in courses related to the tech sector is reached, CISSA acts to significantly beat the status quo gender balance ratio. The following enactment services our goal to facilitate growth in the student community.
+
+1. Affirmative Action shall be applied for women at 40%, rounded up, for every officer team larger than 2 people.
+2. The People & Culture Director, the Diversity Director, and the club executives, in collaboration, shall have discretion on how to exercise the officer team quota, resolve conflicts, and address challenges.
 
 ### 5.4
 All committee members must agree to be bound by their duties to CISSA and participate in the organisation and execution of all CISSA-run events and initiatives including but not limited to marketing campaigns, setting up of events, speaking at events, etc., unless a reasonable notice is provided in advance.
