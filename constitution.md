@@ -22,6 +22,8 @@ September 2022<br>
 
 2022/09/15 - Updated role eligibility for Events Director and Diversity Director. First Year Director is now renamed to Student Experience Director, and the restrictions are removed. Hackathon Director is now renamed to Competitions Director. People & Culture Director is added as a new role. The club aims are updated to enumerate more disciplines at UniMelb that we represent. Adding a diversity quota for team officers (subcommittee).
 
+2023/09/08 - Updated role eligibility for President and Vice President. Renamed Vice-President to Vice President and Industry Liaison to Industry Director. Removed the Student Experience Director role from the general committee.
+
 ## 1 Name and Standard Regulations
 
 ### 1.1
@@ -72,9 +74,9 @@ The committee shall have the following members elected at the AGM:
 
 1. Elected executive members, who shall be University of Melbourne students, consisting of:
 
-	1. the President, who shall be in their second or later year and should have past committee experience;
+	1. the President, who shall be in their second or later year and should have past committee or team officer experience;
 
-	2. the Vice-President, who shall be in their second or later year and should have past committee experience;
+	2. the Vice President, who shall be in their second or later year and should have past committee or team officer experience;
 
 	3. the Secretary, who shall be in their second or later year;
 
@@ -88,19 +90,17 @@ The committee shall have the following members elected at the AGM:
 
 	1. the Publicity Director;
 
-	2. the Industry Liaison;
+	2. the Industry Director;
 
 	3. the IT Director;
 
-	4. the Student Experience Director;
+	4. the Diversity Director, who must be a woman, have a minority gender identity, or be from an Indigenous background.
 
-	5. the Diversity Director, who must be a woman, have a minority gender identity, or be from an Indigenous background.
+	5. the Product Director;
 
-	6. the Product Director;
+	6. the Competitions Director;
 
-	7. the Competitions Director;
-
-	8. the People & Culture Director;
+	7. the People & Culture Director;
 
 	
 
