@@ -24,6 +24,8 @@ September 2023<br>
 
 2023/09/08 - Updated role eligibility for President and Vice President. Renamed Vice-President to Vice President and Industry Liaison to Industry Director. Removed the Student Experience Director role from the general committee.
 
+2024/09/12 - Updated role eligibility of Diversity Director. Removed the Publicity Director role from general committee. Design Director, Marketing Director and Projects Director are added as new roles. Changed the requirements for club member impeachment.
+
 ## 1 Name and Standard Regulations
 
 ### 1.1
@@ -88,13 +90,17 @@ The committee shall have the following members elected at the AGM:
 
 2. General committee members, who shall be University of Melbourne students, consisting of:
 
-	1. the Publicity Director;
+	1. the Design Director;
 
-	2. the Industry Director;
+	2. the Marketing Director;
 
-	3. the IT Director;
+	3. the Industry Director;
 
-	4. the Diversity Director, who must be a woman, have a minority gender identity, or be from an Indigenous background.
+	4. the IT Director;
+
+	5. the Projects Director;
+
+	4. the Diversity Director, who must be a woman, or have a minority gender identity, or be an international student, or be from an Indigenous background.
 
 	5. the Product Director;
 
@@ -260,7 +266,7 @@ If it is deemed that a committee member should be stood down, by a motion of the
 ## 17 Club Member Impeachment
 
 ### 17.1
-If deemed by a motion of the committee, or a petition bearing the names of at least fifteen members, any member of the club can be expelled. The procedure is the same as for impeachment except that the result is the voiding of the persons membership. No member may be expelled on the ground of race, sex, gender or religion; political, moral or sexual views.
+A motion may be put to the membership to expel a member by a motion of the committee, or a petition bearing the names of at least 15 members. The procedure is the same as for impeachment except that the result is the voiding of the person’s membership. No member may be expelled for any reason which may constitute unlawful discrimination.
 
 ## 18 Winding up the Club
 
