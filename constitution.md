@@ -98,15 +98,15 @@ The committee shall have the following members elected at the AGM:
 
 	4. the IT Director;
 
-	5. the Projects Director;
+	6. the Projects Director;
 
-	4. the Diversity Director, who must be a woman, or have a minority gender identity, or be an international student, or be from an Indigenous background.
+	7. the Diversity Director, who must be a woman, or have a minority gender identity, or be an international student, or be from an Indigenous background.
 
-	5. the Product Director;
+	8. the Product Director;
 
-	6. the Competitions Director;
+	9. the Competitions Director;
 
-	7. the People & Culture Director;
+	10. the People & Culture Director;
 
 	
 
