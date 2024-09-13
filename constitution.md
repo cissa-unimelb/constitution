@@ -3,7 +3,7 @@
 <p align="center"><br>
 Current contact details:<br>
 executives@cissa.org.au<br><br>
-September 2023<br>
+September 2024<br>
 </p>
 
 2012/09/14 - First version
